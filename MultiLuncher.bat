@@ -112,7 +112,7 @@ exit
 :f 
 echo.
 color 2
-cd C:\Users\tokup\Desktop
+cd C:\Users\sinixdev\Desktop
 start MultiLuncher.bat
 exit
 
@@ -141,6 +141,8 @@ exit
 :i
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du Autre 1 en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -153,6 +155,8 @@ exit
 :j
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du Autre 2 en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -165,6 +169,8 @@ exit
 :k
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du Autre 3 en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -177,6 +183,8 @@ exit
 :l
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du site en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -189,6 +197,8 @@ exit
 :m
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du site en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -201,10 +211,12 @@ exit
 :n
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du site en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
-cd C:\Users\sinix\Desktop\boutique
+C:\Users\sinixdev\Desktop\Bot-v14
 start index.html
 rem 
 
@@ -212,6 +224,8 @@ rem
 :o
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du serveur en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -224,6 +238,8 @@ exit
 :p
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du serveur en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -236,6 +252,8 @@ exit
 :q
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du serveur en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
@@ -248,10 +266,12 @@ exit
 :r
 color F
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du bot en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
-cd C:\Users\tokup\Desktop\trest\config.bat
+cd C:\Users\sinixdev\Desktop\Bot-v14
 node index.js
 rem 
 pause
@@ -260,10 +280,12 @@ exit
 :s
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du bot en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
-cd C:\Users\sinix\Desktop\Bot-v14
+cd C:\Users\sinixdev\Desktop\Bot-v14
 node index.js
 rem 
 pause
@@ -272,10 +294,12 @@ exit
 :t
 color 2
 echo.
+cd C:\Users\sinixdev\Desktop
+start MultiLuncher.bat
 echo Lancement du bot en cours... Merci de bien vouloir patienter !
 ping luncher -n 2 >nul
 echo.
-cd C:\Users\sinix\Desktop\Bot-v14
+cd C:\Users\sinixdev\Desktop\Bot-v14
 node index.js
 rem 
 pause
