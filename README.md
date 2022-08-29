@@ -12,18 +12,31 @@ Merci à ceux qui l'installerons ! ❤️ </p>
 
 <p> ・🖥️Installer le MultiTools . <br>
     ・🥇Lancer le sur "Visual Studio Code " ou autres et changez le chemin d'accès aux lignes: <br>
-      - 147/148 <br>
-      - 159/160 <br>
-      - 171/172 <br>
-      - 183/184 <br>
-      - 195/196 <br>
-      - 207/208 <br>
-      - 218/219 <br>
-      - 230/231 <br>
-      - 242/243 <br>
-      - 254/255 <br>
-      - 266/267 <br>
-      - 278/279 <br>
+      - 115 <br>
+      - 144 <br>
+      - 149/150 <br>
+      - 158 <br>
+      - 163/164 <br>
+      - 172 <br>
+      - 177/178 <br>
+      - 186 <br>
+      - 191/192 <br>
+      - 200 <br>
+      - 205/206 <br>
+      - 214 <br>
+      - 219/220 <br>
+      - 227 <br>
+      - 232/233 <br>
+      - 241 <br>
+      - 246/247 <br>
+      - 255 <br>
+      - 260/261 <br>
+      - 269 <br>
+      - 274/275 <br>
+      - 283 <br>
+      - 288/289 <br>
+      - 297 <br>
+      - 302/303 <br>
     ・🥏Lancer le tools 
   
   <h1> Auteur </h1> 
